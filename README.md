@@ -1,2 +1,2 @@
 # hello-world
-Hi my name is kenneth.
+Hi my name is Kenneth.
